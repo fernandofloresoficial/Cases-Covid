@@ -1,0 +1,14 @@
+<resources>
+    <string name="ERROR_UNEXPECTED">Um erro inesperado ocorreu. Tente novamente mais tarde.</string>
+    <string name="ERROR_LOAD_TASK">Erro ao carregar a tarefa.</string>
+    <string name="ERROR_INTERNET_CONNECTION">Conexão à internet necessária para uso da applicação.</string>
+
+    <string name="app_name">Covid Mobilus</string>
+    <string name="welcome">Bem vindo ao app de informações do Covid19</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="dont_account">Não tem uma conta</string>
+    <string name="signinup">Cadastre-se</string>
+    <string name="email">E-mail</string>
+</resources>
